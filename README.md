@@ -5,6 +5,16 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 
 ## How it works
 
+## Current Stack (⭐️community based) 
+
+### Moutain lion (Mysql - Java - React)
+* Database: MySql
+* Backend: Java 8
+* Frontend: React 16
+* Mobile: React Native 0.55
+(Download)[https://github.com/hugomn/webstacker] - (Install)[https://github.com/hugomn/webstacker]
+
+
 ## Stack tiers
 
 ### Database tier
