@@ -14,7 +14,6 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 * Mobile: React Native 0.55
 (Download)[https://github.com/hugomn/webstacker] - (Install)[https://github.com/hugomn/webstacker]
 
-
 ## Stack tiers
 
 ### Database tier
@@ -24,3 +23,11 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 ### Web tier
 
 ### Client tier
+
+## How can I help?
+
+### [Voice your opinion][1]
+
+Help shape this library by weighing in on our [RFC (request for comments)][1] issues. 
+
+[1]: https://github.com/hugomn/webstacker/labels/RFC
