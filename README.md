@@ -7,7 +7,7 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 
 ## Current Stack (⭐️community based) 
 
-### Moutain lion (Mysql - Java - React)
+### Mountain lion (Mysql - Java - React)
 * Database: MySql
 * Backend: Java 8
 * Frontend: React 16
