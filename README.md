@@ -36,7 +36,7 @@ Help shape this library by weighing in on our [RFC (request for comments)][1] is
 
 ## Credit
 
-Created by [@hugomn][2] and an amazing community of [contributors][20].
+Created by [@hugomn][2] and an amazing community of [contributors][3].
 
 [1]: https://github.com/hugomn/webstacker/labels/RFC
 [2]: https://github.com/hugomn
