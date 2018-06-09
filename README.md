@@ -12,7 +12,8 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 * Backend: Java 8
 * Frontend: React 16
 * Mobile: React Native 0.55
-(Download)[https://github.com/hugomn/webstacker] - (Install)[https://github.com/hugomn/webstacker]
+
+[Download](https://github.com/hugomn/webstacker) - [Install](https://github.com/hugomn/webstacker)
 
 ## Stack tiers
 
