@@ -1,6 +1,7 @@
 # webstacker
 
 [![Join the chat at https://gitter.im/webstackerio/Lobby](https://badges.gitter.im/webstackerio/Lobby.svg)](https://gitter.im/webstackerio/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 🥞The missing web stack generator tool for modern webpapps!
 
