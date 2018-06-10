@@ -1,4 +1,7 @@
 # webstacker
+
+[![Join the chat at https://gitter.im/webstackerio/Lobby](https://badges.gitter.im/webstackerio/Lobby.svg)](https://gitter.im/webstackerio/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 🥞The missing web stack generator tool for modern webpapps!
 
 Have you ever wondered what would be the best webapp stack to start your new project? Are you curious about the most used technologies? Do you want to quickly start our entire stack with one easy set of stack configuration? *webstacker* got your back.
