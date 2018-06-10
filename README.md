@@ -45,9 +45,12 @@ Help shape this library by weighing in on our [RFC (request for comments)][1] is
 
 - All kind of stacks are welcome
 
-## Credit
+## Credits
 
 Created by [@hugomn][2] and an amazing community of [contributors][3].
+
+## License
+webstacker is released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
 [1]: https://github.com/hugomn/webstacker/labels/RFC
 [2]: https://github.com/hugomn
