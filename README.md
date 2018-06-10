@@ -15,15 +15,21 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 
 [Download](https://github.com/hugomn/webstacker) - [Install](https://github.com/hugomn/webstacker)
 
-## Stack tiers
+## Stack layers
 
-### Database tier
+### Server-side
+Server side is the umbrella term used for layers where servers and applications manage data and business logic. They are usually consisted by some of the following layers:
 
-### Business tier
+#### Databases
+Definition of databases
 
-### Web tier
+##### Databases available
+1) MySql
+2) PostgreSql
+3) MongoDB
 
-### Client tier
+### Client-side
+
 
 ## How can I help?
 
