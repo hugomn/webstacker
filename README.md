@@ -8,11 +8,15 @@
 Have you ever wondered what would be the best webapp stack to start your new project? Are you curious about the most used technologies? Do you want to quickly start our entire stack with one easy set of stack configuration? *webstacker* got your back.
 
 ## How it works
-For more information about the functional requirements and user cases for the webstack base app, please refer to our [Wiki](https://github.com/hugomn/webstacker/wiki)
+For more information about the functional requirements and user cases for the webstack base app, please refer to our [Wiki](https://github.com/hugomn/webstacker/wiki).
+
+Webstacker will always have a most-voted stack, that will be installed when you run:
+`npm install -g webstacker`
+`webstacker init`
 
 ## Current Stack (⭐️community based) 
 
-### Mountain lion (Mysql - Java - React)
+### [Name TBD] (Mongo - Express - React - Redux - Node)
 * Database: MySql
 * Backend: Java 8
 * Frontend: React 16
@@ -35,6 +39,10 @@ Definition of databases
 
 ### Client-side
 
+#### SPA Frameworks
+1) React
+2) Angular
+3) Vue.js
 
 ## How can I help?
 
