@@ -11,6 +11,7 @@ Have you ever wondered what would be the best webapp stack to start your new pro
 For more information about the functional requirements and user cases for the webstack base app, please refer to our [Wiki](https://github.com/hugomn/webstacker/wiki).
 
 Webstacker will always have a most-voted stack, that will be installed when you run:
+
 `npm install -g webstacker`
 `webstacker init`
 
@@ -36,6 +37,10 @@ Definition of databases
 1) MySql
 2) PostgreSql
 3) MongoDB
+
+### Middlewares
+
+### Rest-API
 
 ### Client-side
 
