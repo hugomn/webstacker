@@ -55,6 +55,10 @@ Definition of databases
 
 Help shape this library by weighing in on our [RFC (request for comments)][1] issues. 
 
+### Submit new stacks
+
+You can submit new stacks to webstacker community. Follow the stack development guidelines and publish your preferred stack.
+
 ## Principles
 
 - All kind of stacks are welcome
